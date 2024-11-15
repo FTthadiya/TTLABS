@@ -1,0 +1,39 @@
+.customTooltip {
+  color: #4a4a4a;
+  font-size: 18px;
+  background-color: #ffffe0;
+}
+.customTooltip * {
+  color: #4a4a4a;
+  font-size: 18px;
+  background-color: #ffffe0;
+}
+
+.customTooltip .introjs-tooltip-title {
+  color: #000000;
+}
+
+.customTooltip .introjs-button.introjs-button.introjs-nextbutton {
+  background-color: #ffffe0;
+}
+
+.customTooltip .introjs-button.introjs-button.introjs-prevbutton {
+  background-color: #ffffe0; 
+}
+
+.customTooltip .introjs-progress-container {
+  background-color: #ffffe0;
+}
+
+.customTooltip .introjs-progress {
+  /* background-color: #FBF3D5; */
+  color: #FBF3D5;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.customTooltip .introjs-progressbar {
+  background-color: rgb(128, 171, 240);
+}
+
+

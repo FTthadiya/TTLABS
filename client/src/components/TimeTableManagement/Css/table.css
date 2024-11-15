@@ -1,0 +1,18 @@
+.common-table {
+  background-color: #353535;
+}
+
+.common-table th {
+  background-color: #f0edd4;
+  color: #353535;
+}
+
+.common-table td {
+  background-color: #f9fbe7;
+  color: #353535;
+}
+
+.common-table tr {
+  background-color: #f9fbe7;
+  color: #353535;
+}

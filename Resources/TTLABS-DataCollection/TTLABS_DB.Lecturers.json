@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "661f641278d4a58a7600287e"
+  },
+  "lecturerName": "Laneesha Ruggahakotuwa",
+  "email": "lr@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f64d078d4a58a7600288d"
+  },
+  "lecturerName": "Shanika Perera",
+  "email": "sp@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f656778d4a58a76002897"
+  },
+  "lecturerName": "Tharindu Dharmasena",
+  "email": "td@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f65f178d4a58a760028a1"
+  },
+  "lecturerName": "Umanga Pilapitiya",
+  "email": "up@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f661e78d4a58a760028a6"
+  },
+  "lecturerName": "Madhuni Prasadinie",
+  "email": "mp@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f666c78d4a58a760028ab"
+  },
+  "lecturerName": "NImal Visahan",
+  "email": "nv@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f66c478d4a58a760028b0"
+  },
+  "lecturerName": "Ann Fernando",
+  "email": "af@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f66f678d4a58a760028b5"
+  },
+  "lecturerName": "Tharushi Amarasinghe",
+  "email": "ta@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f68c378d4a58a760028c9"
+  },
+  "lecturerName": "Shashika Lokuliyana",
+  "email": "sl@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f691478d4a58a760028ce"
+  },
+  "lecturerName": "Praveen Gamage",
+  "email": "pg@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f699578d4a58a760028d3"
+  },
+  "lecturerName": "Jeewaka Perera",
+  "email": "jp@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6a3078d4a58a760028db"
+  },
+  "lecturerName": "Samantha Rajapakshe",
+  "email": "sr@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6acb78d4a58a760028e5"
+  },
+  "lecturerName": "Jagath Wickramarathne",
+  "email": "jw@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6bb678d4a58a760028ef"
+  },
+  "lecturerName": "Roshan Chandraguptha",
+  "email": "rc@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6bf878d4a58a760028f4"
+  },
+  "lecturerName": "Darshana Kasthurirathne",
+  "email": "dk@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6ccd78d4a58a760028f9"
+  },
+  "lecturerName": "Uditha Darmakeerthi",
+  "email": "ud@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6cf678d4a58a760028fe"
+  },
+  "lecturerName": "Geethanjali Wimalaratne",
+  "email": "gw@gmail.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f75c078d4a58a76002acd"
+  },
+  "lecturerName": "Kasun Madushanka",
+  "email": "kasunm@gmail.com",
+  "__v": 0
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "661f7dca78d4a58a76002d07"
+  },
+  "specName": "Software Engineering",
+  "year": 2,
+  "semester": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f7de678d4a58a7600353e"
+  },
+  "specName": "Cyber Security",
+  "year": 3,
+  "semester": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f7e0778d4a58a76004272"
+  },
+  "specName": "Computer Systems and Networking",
+  "year": 1,
+  "semester": 1,
+  "__v": 0
+}]

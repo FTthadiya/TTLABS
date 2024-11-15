@@ -1,0 +1,34 @@
+.transparent-btn,
+.transparent-btn:hover,
+.transparent-btn:focus,
+.transparent-btn:active {
+  background: transparent !important;
+  border-width: 0 !important;
+  color: #ffffff !important;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+.sidebar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 999;
+}
+
+.offcanvas-width {
+  width: 280px !important;
+}
+
+.nav-link-custom {
+  color: #ffffff;
+}
+
+.btn-linear-gradient {
+  background: linear-gradient(to right, #ffffff, #ffe9b1);
+  border: 0;
+  color: #000000 !important;
+}

@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "6644fe68a0564ba341cb4832"
+  },
+  "studentName": "pamo",
+  "studentEmail": "ttlabsofficial@gmail.com",
+  "enrolledModules": [
+    "Object Oriented Software Engineering",
+    "Machine Learning",
+    "Programming Design & Implementation",
+    "Fundamentals of Programming",
+    "Operating Systems",
+    "Fundamental Concepts of Cryptography"
+  ]
+}]

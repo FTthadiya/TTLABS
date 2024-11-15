@@ -1,0 +1,30 @@
+.cellButton {
+  visibility: hidden;
+}
+.tableCell {
+  position: relative;
+}
+.tableCell:hover button {
+  visibility: visible;
+}
+.card-color {
+  background-color: #fbf3d5;
+}
+.card-color-new{
+    background-color: #76ff7d;
+}
+.card-color-old{
+    background-color: #ff9595;
+}
+.container-color {
+  background-color: #353535;
+}
+.navbar-color {
+  background-color: #353535;
+}
+.white-text {
+  color: #ffffff;
+}
+.dark-dropdown::placeholder {
+  color: #ffffe0;
+}

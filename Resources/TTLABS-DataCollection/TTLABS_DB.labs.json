@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "66428ef290239c127288ad12"
+  },
+  "labid": "LB-207",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428ef390239c127288ad14"
+  },
+  "labid": "LB-207",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428ef690239c127288ad16"
+  },
+  "labid": "LB-207",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428f0790239c127288ad18"
+  },
+  "labid": "LB-207",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642907190239c127288ad1a"
+  },
+  "labid": "LB-207",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642908c90239c127288ad1c"
+  },
+  "labid": "LB-205",
+  "capacity": 60,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664290ac90239c127288add0"
+  },
+  "labid": "LB-206",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664290bd90239c127288add2"
+  },
+  "labid": "LB-204",
+  "capacity": 80,
+  "available": true,
+  "__v": 0
+}]

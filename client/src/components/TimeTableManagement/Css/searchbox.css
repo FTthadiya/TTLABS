@@ -1,0 +1,20 @@
+.custom-search-input-style {
+  color: #ffffff;
+  padding-right: 30px;
+}
+
+.custom-search-input-style::placeholder {
+  color: #ffffff;
+}
+
+.custom-search-search-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  color: #ffffff;
+}
+
+.custom-search-wrapper {
+  position: relative;
+}

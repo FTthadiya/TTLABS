@@ -1,0 +1,46 @@
+/* HallView.css */
+.search-bar {
+    width: 70%; 
+    margin: 0 auto; 
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 8px; 
+    overflow: hidden;
+    border: 1px solid #dee2e6;
+    text-align: left; 
+    text-indent: 3px;
+    margin-left: 15%;
+    
+}
+  
+.search-bar::placeholder {
+    color: black; 
+}
+
+.custom-style {
+    margin-top: 20px;
+    margin-left: 230px;
+    color: black;
+    background: linear-gradient(to right, #ffffff, #ffe9b1) !important;
+    /* Additional styling if needed */
+  }
+
+  .custom-style:hover {
+    color: black;
+    background: linear-gradient(to right, #ffffff, #ffd180) !important; /* Slightly darker shade on hover */
+  }
+
+  .search-icon {
+    position: absolute;
+    top: 30%;
+    right: 16%;
+    transform: translateY(-50%);
+    color: black;
+  }
+  
+  
+
+
+
+  

@@ -1,0 +1,123 @@
+.ttlabs {
+  top: -4rem;
+  right: 10vh;
+  object-fit: cover;
+  height: 50vh;
+}
+
+.btn-fade {
+  background-color: #F0EDD4; /* Blue color */
+  transition: background-color 0.3s ease; /* Fading effect with duration 0.3s */
+}
+
+.btn-fade:hover {
+  background-color: #F0EDD4; /* Darker blue color on hover */
+}
+
+.box {
+  border: 2px solid #F0EDD4 ; /* Light gray border */
+  box-shadow: 0 0 10px rgba(255, 240, 33, 0.1); /* Light shadow effect */
+}
+
+.form-control:focus {
+  border-color: #F0EDD4; /* Light blue border color */
+  box-shadow: 0 0 0 0.15rem #F0EDD4; /* Light blue shadow effect */
+}
+
+.custom-text {
+  color: #000000;
+}
+
+.round-frame {
+  width: 200px; /* Adjust this value to your desired width */
+  height: 200px; /* Adjust this value to your desired height */
+  overflow: hidden; /* Ensure the image stays within the frame */
+}
+
+.round-frame img {
+  width: 100%; /* Make the image fill the frame */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.profile-pic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-pic input[type="file"] {
+  display: none;
+}
+
+.bg-F0EDD4 {
+  background-color: #F0EDD4;
+}
+
+.custom-background {
+  background-color: #ffffe0; /* or any other color value */
+}
+
+.form-bg{
+  background-color: #f0edd4; /* or any other color value */
+
+}
+
+.c-table {
+  padding: 13px;
+  line-height: 1;
+  background-color: #F0EDD4;
+  width: auto;
+  border-collapse: collapse; /* Merge table borders */
+}
+
+.c-table th, .c-table td {
+  padding: 8px; /* Adjust cell padding */
+  border: 1px solid #0000003b; /* Add borders to cells */
+}
+
+.c-table th {
+  background-color: #ffffff; /* Header background color */
+  font-weight: bold; /* Bold header text */
+}
+
+.c-table tr:hover {
+  background-color: #ddd; /* Hover effect */
+}
+
+
+.profile-picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-bottom: 20px; /* Add margin to create space between picture and details */
+}
+
+.profile-pic input[type="file"] {
+  display: none;
+}
+
+.profile-pic {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Center content horizontally and vertically */
+}
+
+.user-data {
+  margin-top: 20px; /* Add margin to create a gap between image and user details */
+}
+
+
+.custom-file-input::file-selector-button {
+  padding: 7.5px 12px;
+  border-radius: 0;
+  background: linear-gradient(to right, #FFFFFF, #FFE9B1);
+  border-width: 0;
+  font-weight: bold;
+  border: 1px solid #000000;
+  color: #000000;
+  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out,
+    box-shadow 0.15s ease-in-out;
+}
+
+

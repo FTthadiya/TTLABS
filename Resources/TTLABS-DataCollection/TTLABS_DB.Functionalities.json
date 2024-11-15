@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "66065c239f6cc813a04af621"
+  },
+  "functionName": "getCurrSemester",
+  "year": 2024,
+  "semester": {
+    "periodIndex": 1,
+    "periodName": "February - June",
+    "_id": {
+      "$oid": "6642603dd202f172df77fdc1"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "661e08250b32c599b2abc044"
+  },
+  "functionName": "getLectPrefVisibility",
+  "isToggled": true
+}]

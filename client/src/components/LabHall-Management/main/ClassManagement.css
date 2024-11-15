@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #353535; /* Set the background color for the entire page */
+  color: white; /* Set the text color */
+}
+
+.Main {
+  display: flex;
+  flex-direction: column; /* Stack the child elements vertically */
+  align-items: flex-start; /* Align the child elements to the left */
+  padding: 20px;
+  width: 100%;
+  min-height: 100vh; /* Ensure the Main div takes at least the height of the viewport */
+  box-sizing: border-box;
+}
+
+.Box {
+  width: 45%;
+  padding: 20px;
+  background-color: #353535;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  float: right;
+  margin-right: 20px;
+}
+
+.BoxHeading {
+  font-size: 24px;
+  font-weight: 100;
+  margin-top: 20px;
+  margin-left: 20px; /* Add a left margin of 20px */
+}
+
+.InputBox {
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #505050; /* Set the background color for inputs and dropdowns */
+  color: white; /* Set the text color for inputs and dropdowns */
+}
+
+.DropdownBox {
+  width: 25%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #F9FBE7;
+  
+  color: black;
+  align-self: center; /* Align the dropdown box to the left */
+  cursor: pointer;
+}
+
+.ButtonContainer {
+  display: flex;
+  justify-content: center; /* Center the buttons horizontally */
+  margin-top: 20px;
+  margin-left: 10px;
+  align-self: center;
+}
+
+.ActionButton {
+  background: linear-gradient(to right, #ffffff, #ffe9b1) !important;
+  color: black;
+  border: 1px solid black; /* Add a thin black border */
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 0 10px;
+  width: 120px;
+}
+
+
+
+.ActionButton:hover {
+  background: linear-gradient(to right, #5CD6E0, #FFFFFF);
+}
+
+.ErrorMessage {
+  color: red;
+  margin-top: 10px;
+}
+
+
+.TypeHeading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-top: -60px;
+
+  
+  align-self: center;
+}

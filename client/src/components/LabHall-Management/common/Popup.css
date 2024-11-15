@@ -1,0 +1,177 @@
+.Popup {
+  background-color: #f0edd4;
+  color: black;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 20px;
+  width: 90%; /* Set the width to 80% of the viewport */
+  height: 80vh; /* Set the height to 80% of the viewport height */
+  max-width: 700px; /* Set a max-width to prevent the popup from becoming too wide */
+  max-height: 400px; /* Set a max-height to prevent the popup from becoming too tall */
+  position: absolute; /* Position the popup absolutely */
+  top: 50%; /* Position the top at 50% of the viewport height */
+  left: 50%; /* Position the left at 50% of the viewport width */
+  transform: translate(-50%, -50%); /* Center the popup */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 140px;
+  align-self: center;
+}
+
+.PopupUpdate {
+  background-color: #f0edd4;
+  color: black;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 20px;
+  width: 90%; /* Set the width to 80% of the viewport */
+  height: 90vh; /* Set the height to 90% of the viewport height */
+  max-width: 700px; /* Set a max-width to prevent the popup from becoming too wide */
+  max-height: 420px; /* Set a max-height to prevent the popup from becoming too tall */
+  position: absolute; /* Position the popup absolutely */
+  top: 50%; /* Position the top at 50% of the viewport height */
+  left: 50%; /* Position the left at 50% of the viewport width */
+  transform: translate(-50%, -50%); /* Center the popup */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 140px;
+}
+
+.PopupInputField {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #F9FBE7; /* White background for input fields */
+    color: #000; /* Text color */
+}
+
+.InputLabel {
+    font-size: medium;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.DoneButton {
+    background: linear-gradient(to right, #ffffff, #ffe9b1) !important;
+    color: black;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 15px;
+    align-self: flex-end;
+    text-align: center;
+}
+
+.DoneButton:hover {
+    background: linear-gradient(to right, #5CD6E0, #FFFFFF);
+}
+
+.CancelButton {
+    background-color: #ba0606; /* Red background color */
+    color: #ffffff; /* White text color */
+    padding: 8px 16px; /* Padding for the button */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Add border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    margin-top: 15px;
+    margin-left: 501px; /* Move the button to the right */
+  }
+
+  .CancelButtonUpdate {
+    background-color: #ba0606; /* Red background color */
+    color: #ffffff; /* White text color */
+    padding: 8px 16px; /* Padding for the button */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Add border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    margin-top: 15px;
+    margin-left: 495px; /* Move the button to the right */
+  }
+
+  .CancelButtonAdd {
+    background-color: #ba0606; /* Red background color */
+    color: #ffffff; /* White text color */
+    padding: 8px 16px; /* Padding for the button */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Add border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    margin-top: 15px;
+    margin-left: 518px; /* Move the button to the right */
+  }
+
+  .CancelButtonLog {
+    background-color: #ba0606; /* Red background color */
+    color: #ffffff; /* White text color */
+    padding: 8px 16px; /* Padding for the button */
+    border: none; /* Remove border */
+    border-radius: 4px; /* Add border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    margin-top: 70px;
+    margin-left: 580px; /* Move the button to the right */
+  }
+  
+  .CancelButton:hover {
+    background-color: #ff6666; /* Darker red on hover */
+  }
+
+  .ErrorMessage {
+    color: red;
+    font-size: small;
+    margin-top: -10px;
+    margin-left: 2px;
+  }
+
+  .log-popup-container {
+    position: fixed;
+    top: 0;
+    right: 20%;
+    width: 300px; /* Adjust the width as needed */
+    height: 100vh; /* Make it full height */
+    overflow-y: auto; /* Enable vertical scrolling if needed */
+    background-color: #ffffff; /* White background */
+    border: 1px solid #cccccc; /* Border */
+    z-index: 9999; /* Ensure it's on top of other content */
+    padding: 20px; /* Add some padding */
+  }
+  
+  .log-popup {
+    background-color: #ffffff; /* White background */
+    border: 1px solid #cccccc; /* Border */
+    padding: 20px; /* Add some padding */
+  }
+  
+  .log-popup-content {
+    color: black; /* Black text */
+  }
+  
+  .log-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
+  
+  .log-table th,
+  .log-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .log-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .log-table tr {
+    background-color: transparent; /* Set all rows to have a transparent background */
+    cursor: pointer; /* Change cursor to a pointer on hover */
+  }
+  
+  .log-table tr:nth-child(even) {
+    background-color: transparent; /* Ensure alternating rows are also transparent */
+  }
+  
+  .log-table tr:hover {
+    background-color: #ddd; /* Change background color on hover */
+  }
+  

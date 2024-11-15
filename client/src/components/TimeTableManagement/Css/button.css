@@ -1,0 +1,21 @@
+.custom-button,
+.custom-button:hover,
+.custom-button:focus,
+.custom-button:active {
+  background: linear-gradient(to right, #ffffff, #ffe9b1) !important;
+  border: 1px solid #353535 !important;
+  color: #000000 !important;
+  box-shadow: none !important;
+  transition: none !important;
+}
+
+.help-button {
+  background: transparent !important;
+  border-width: 0;
+}
+
+.custom-input-button-unchecked {
+  background: transparent !important;
+  border: 1px solid #353535 !important;
+  color: #000000 !important;
+}

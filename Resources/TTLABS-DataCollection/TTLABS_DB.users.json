@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "661f641278d4a58a7600287e"
+  },
+  "Firstname": "Laneesha",
+  "Lastname": "Ruggahakotuwa",
+  "email": "lr@gmail.com",
+  "Password": "$2b$10$ik9OtxSG27CJ./tvZM76qeJwiy4vaPSzfMSGEx4/uo6fGJyFLuYSq",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f64d078d4a58a7600288d"
+  },
+  "Firstname": "Shanika",
+  "Lastname": "Perera",
+  "email": "sp@gmail.com",
+  "Password": "$2b$10$2cG55lMJhURa4.GLOx2ebehO6uUbnBe/ubizr9irdAYLpNJHktzx2",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f656778d4a58a76002897"
+  },
+  "Firstname": "Tharindu",
+  "Lastname": "Dharmasena",
+  "email": "td@gmail.com",
+  "Password": "$2b$10$bK706PW6jteorKAh8KyTaOhaj7ku.65SOipbWrRIlEEAMOoHluz8e",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f65f178d4a58a760028a1"
+  },
+  "Firstname": "Umanga",
+  "Lastname": "Pilapitiya",
+  "email": "up@gmail.com",
+  "Password": "$2b$10$kvYVIpOrVtxT.4DBeQrCzutRLtBscCtXHr54DYSOxUjdVfFyqlyn2",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f661e78d4a58a760028a6"
+  },
+  "Firstname": "Madhuni",
+  "Lastname": "Prasadinie",
+  "email": "mp@gmail.com",
+  "Password": "$2b$10$2cW7ezwFwo5x9py7cwqUDuxF.moFpHWrGLs4ooanwYUBEgWNKd5Am",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f666c78d4a58a760028ab"
+  },
+  "Firstname": "NImal",
+  "Lastname": "Visahan",
+  "email": "nv@gmail.com",
+  "Password": "$2b$10$kGRm5GYa/R19EXMFERkdxusv3zgpLx4xRRSJtCqII.PnB1lodzAxS",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f66c478d4a58a760028b0"
+  },
+  "Firstname": "Ann",
+  "Lastname": "Fernando",
+  "email": "af@gmail.com",
+  "Password": "$2b$10$MSHFLKlMDe1onSkQD9.guu3HdXFP/3R9ZK9YFECYeTztL1dcJ9RTa",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f66f678d4a58a760028b5"
+  },
+  "Firstname": "Tharushi",
+  "Lastname": "Amarasinghe",
+  "email": "ta@gmail.com",
+  "Password": "$2b$10$8ZigPWxIPyby5V4Kvu0sru5XUJIJTo9Fngqocj37IIv.TjN8nktda",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f691478d4a58a760028ce"
+  },
+  "Firstname": "Praveen",
+  "Lastname": "Gamage",
+  "email": "pg@gmail.com",
+  "Password": "$2b$10$FwU5MsOnOse.kWhQiVhGI.zMeiAgyDY.DKMecepb6KWUOzaxXtgJW",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f699578d4a58a760028d3"
+  },
+  "Firstname": "Jeewaka",
+  "Lastname": "Perera",
+  "email": "jp@gmail.com",
+  "Password": "$2b$10$SXTsvCW6Iwq17KsU3.hMP.bd3Fd5pHwC97SJGeBPpWtElWr.8IKsa",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6a3078d4a58a760028db"
+  },
+  "Firstname": "Samantha",
+  "Lastname": "Rajapakshe",
+  "email": "sr@gmail.com",
+  "Password": "$2b$10$RbSZCvQ9wbU6WF60M35WVe5maVnYyfqnGi5gF6w09Bil1i35q5e7W",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6acb78d4a58a760028e5"
+  },
+  "Firstname": "Jagath",
+  "Lastname": "Wickramarathne",
+  "email": "jw@gmail.com",
+  "Password": "$2b$10$NTD4Gysmb0sBkOP8pK0FO.mgLp.esp.Skz9Q8CxMl.wvl6bJvk6lO",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6bb678d4a58a760028ef"
+  },
+  "Firstname": "Roshan",
+  "Lastname": "Chandraguptha",
+  "email": "rc@gmail.com",
+  "Password": "$2b$10$xiGcwAegUyG2/yxpekncneo0FCxjitV0eEddZuGT.cYm4n8SBcGiK",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6bf878d4a58a760028f4"
+  },
+  "Firstname": "Darshana",
+  "Lastname": "Kasthurirathne",
+  "email": "dk@gmail.com",
+  "Password": "$2b$10$.2F8Xbioih83xuyDAm27BOrmGySe9gx5QcAQNevMW6L/eRFd8pzv2",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6ccd78d4a58a760028f9"
+  },
+  "Firstname": "Uditha",
+  "Lastname": "Darmakeerthi",
+  "email": "ud@gmail.com",
+  "Password": "$2b$10$4JI6oimo2hltnWp9hZjLjeDD1wD4FCznu9noDuXAzvTtADjzAzDr6",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f6cf678d4a58a760028fe"
+  },
+  "Firstname": "Geethanjali",
+  "Lastname": "Wimalaratne",
+  "email": "gw@gmail.com",
+  "Password": "$2b$10$Vjh9dbMJICCzSxxDinjjWOSeDiQrRpGfgB4Txf/ofzoooei/ckkx.",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f75c078d4a58a76002acd"
+  },
+  "Firstname": "Kasun",
+  "Lastname": "Madushanka",
+  "email": "kasunm@gmail.com",
+  "Password": "$2b$10$Md5qapNLaSiqH0a.B2MtbeTVZxK5eRFPne5AzlHB42x5MgS1VEY0q",
+  "role": "lecture",
+  "profilePicture": "ProfilePic.jpg",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664b542b41379d9ae6e53a8d"
+  },
+  "Firstname": "pamo",
+  "Lastname": "pamo",
+  "email": "pamo@gmail.com",
+  "Password": "$2b$10$oyMrZ5rA3OgrO3vAxWuW.OBkLNDLZTkiipRWy3CpfKaHONRreUzea",
+  "role": "admin",
+  "twoFactorAuth": false,
+  "__v": 0
+}]

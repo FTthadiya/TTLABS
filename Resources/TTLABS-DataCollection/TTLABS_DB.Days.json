@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6602db26014bdf1e1dea45fb"
+  },
+  "index": 1,
+  "name": "Monday"
+},
+{
+  "_id": {
+    "$oid": "6602db26014bdf1e1dea45fc"
+  },
+  "index": 2,
+  "name": "Tuesday"
+},
+{
+  "_id": {
+    "$oid": "6602db26014bdf1e1dea45fd"
+  },
+  "index": 3,
+  "name": "Wednesday"
+},
+{
+  "_id": {
+    "$oid": "6602db26014bdf1e1dea45fe"
+  },
+  "index": 4,
+  "name": "Thursday"
+},
+{
+  "_id": {
+    "$oid": "6602db26014bdf1e1dea45ff"
+  },
+  "index": 5,
+  "name": "Friday"
+}]

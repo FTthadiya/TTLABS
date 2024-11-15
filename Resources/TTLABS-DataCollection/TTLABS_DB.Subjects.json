@@ -1,0 +1,1472 @@
+[{
+  "_id": {
+    "$oid": "661f7ff178d4a58a760055fe"
+  },
+  "subjectName": "Mathematics for Computing",
+  "subjectCode": "CSIT1030",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Shanika Perera",
+    "email": "sp@gmail.com",
+    "_id": {
+      "$oid": "661f64d078d4a58a7600288d"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002cfe"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600301d"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a76003532"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f82ca9e22c6775e77e990"
+  },
+  "subjectName": "Fundamentals of Programming",
+  "subjectCode": "COMP1005",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Umanga Pilapitiya",
+    "email": "up@gmail.com",
+    "_id": {
+      "$oid": "661f65f178d4a58a760028a1"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Information Technology",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600301d"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f82ca9e22c6775e77e998"
+  },
+  "subjectName": "Fundamentals of Programming",
+  "subjectCode": "COMP1005",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Madhuni Prasadinie",
+    "email": "mp@gmail.com",
+    "_id": {
+      "$oid": "661f661e78d4a58a760028a6"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Information Technology",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600301d"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f83379e22c6775e77ea1e"
+  },
+  "subjectName": "Fundamentals of Programming",
+  "subjectCode": "COMP1005",
+  "sessionType": "Tute",
+  "studentCount": 50,
+  "duration": 1,
+  "lecturer": {
+    "lecturerName": "Umanga Pilapitiya",
+    "email": "up@gmail.com",
+    "_id": {
+      "$oid": "661f65f178d4a58a760028a1"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Information Technology",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600301d"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f83d69e22c6775e77eab9"
+  },
+  "subjectName": "Linear Algebra and Statistics",
+  "subjectCode": "MATH1090",
+  "sessionType": "Workshop",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Shanika Perera",
+    "email": "sp@gmail.com",
+    "_id": {
+      "$oid": "661f64d078d4a58a7600288d"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f846c9e22c6775e77eb4e"
+  },
+  "subjectName": "Eng.Foundations: Principles, Design,and communication",
+  "subjectCode": "INDE1001",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "NImal Visahan",
+    "email": "nv@gmail.com",
+    "_id": {
+      "$oid": "661f666c78d4a58a760028ab"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f846c9e22c6775e77eb55"
+  },
+  "subjectName": "Eng.Foundations: Principles, Design,and communication",
+  "subjectCode": "INDE1001",
+  "sessionType": "Workshop",
+  "studentCount": 50,
+  "duration": 3,
+  "lecturer": {
+    "lecturerName": "NImal Visahan",
+    "email": "nv@gmail.com",
+    "_id": {
+      "$oid": "661f666c78d4a58a760028ab"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f84e39e22c6775e77ebe7"
+  },
+  "subjectName": "Hardware Fundamentals",
+  "subjectCode": "CMPE1000",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Ann Fernando",
+    "email": "af@gmail.com",
+    "_id": {
+      "$oid": "661f66c478d4a58a760028b0"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0d"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004275"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f84e39e22c6775e77ebf1"
+  },
+  "subjectName": "Hardware Fundamentals",
+  "subjectCode": "CMPE1000",
+  "sessionType": "Tute",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Ann Fernando",
+    "email": "af@gmail.com",
+    "_id": {
+      "$oid": "661f66c478d4a58a760028b0"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0d"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004275"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f85479e22c6775e77ec93"
+  },
+  "subjectName": "Hardware Fundamentals",
+  "subjectCode": "CMPE1000",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Tharushi Amarasinghe",
+    "email": "ta@gmail.com",
+    "_id": {
+      "$oid": "661f66f678d4a58a760028b5"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0d"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004272"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 1,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004275"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f8ea09e22c6775e77f35e"
+  },
+  "subjectName": "Software Engineering Testing",
+  "subjectCode": "CMPE3008",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Jeewaka Perera",
+    "email": "jp@gmail.com",
+    "_id": {
+      "$oid": "661f699578d4a58a760028d3"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f8ea09e22c6775e77f366"
+  },
+  "subjectName": "Software Engineering Testing",
+  "subjectCode": "CMPE3008",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Madhuni Prasadinie",
+    "email": "mp@gmail.com",
+    "_id": {
+      "$oid": "661f661e78d4a58a760028a6"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f8f109e22c6775e77f460"
+  },
+  "subjectName": "Object Oriented Software Engineering",
+  "subjectCode": "COMP2003",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Kasun Madushanka",
+    "email": "kasunm@gmail.com",
+    "_id": {
+      "$oid": "661f75c078d4a58a76002acd"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f8f109e22c6775e77f468"
+  },
+  "subjectName": "Object Oriented Software Engineering",
+  "subjectCode": "COMP2003",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Praveen Gamage",
+    "email": "pg@gmail.com",
+    "_id": {
+      "$oid": "661f691478d4a58a760028ce"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f91409e22c6775e77f7be"
+  },
+  "subjectName": "Operating Systems",
+  "subjectCode": "COMP2006",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Samantha Rajapakshe",
+    "email": "sr@gmail.com",
+    "_id": {
+      "$oid": "661f6a3078d4a58a760028db"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003023"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003026"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a76003538"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004278"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f91409e22c6775e77f7cc"
+  },
+  "subjectName": "Operating Systems",
+  "subjectCode": "COMP2006",
+  "sessionType": "Tute",
+  "studentCount": 50,
+  "duration": 1,
+  "lecturer": {
+    "lecturerName": "Samantha Rajapakshe",
+    "email": "sr@gmail.com",
+    "_id": {
+      "$oid": "661f6a3078d4a58a760028db"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003023"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003026"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a76003538"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004278"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f91d09e22c6775e77f90d"
+  },
+  "subjectName": "Operating Systems",
+  "subjectCode": "COMP2006",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Tharindu Dharmasena",
+    "email": "td@gmail.com",
+    "_id": {
+      "$oid": "661f656778d4a58a76002897"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d04"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003023"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003026"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a76003538"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004278"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f99549e22c6775e77fd03"
+  },
+  "subjectName": "Transmission and Interface Design",
+  "subjectCode": "ELEN2002",
+  "sessionType": "Tute",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Ann Fernando",
+    "email": "af@gmail.com",
+    "_id": {
+      "$oid": "661f66c478d4a58a760028b0"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004278"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f99a69e22c6775e77fe51"
+  },
+  "subjectName": "Transmission and Interface Design",
+  "subjectCode": "ELEN2002",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 3,
+  "lecturer": {
+    "lecturerName": "Tharushi Amarasinghe",
+    "email": "ta@gmail.com",
+    "_id": {
+      "$oid": "661f66f678d4a58a760028b5"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004278"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9a639e22c6775e77ffb9"
+  },
+  "subjectName": "Human Computer Interface",
+  "subjectCode": "ICTE3002",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Jagath Wickramarathne",
+    "email": "jw@gmail.com",
+    "_id": {
+      "$oid": "661f6acb78d4a58a760028e5"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d07"
+      }
+    },
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003026"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9c309e22c6775e7802e1"
+  },
+  "subjectName": "Fundamental Concepts of Cryptography",
+  "subjectCode": "ISEC2000",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Roshan Chandraguptha",
+    "email": "rc@gmail.com",
+    "_id": {
+      "$oid": "661f6bb678d4a58a760028ef"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9c309e22c6775e7802eb"
+  },
+  "subjectName": "Fundamental Concepts of Cryptography",
+  "subjectCode": "ISEC2000",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Laneesha Ruggahakotuwa",
+    "email": "lr@gmail.com",
+    "_id": {
+      "$oid": "661f641278d4a58a7600287e"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9d1b9e22c6775e780602"
+  },
+  "subjectName": "Introduction to Scientific Data Analysis",
+  "subjectCode": "STAT1004",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Shanika Perera",
+    "email": "sp@gmail.com",
+    "_id": {
+      "$oid": "661f64d078d4a58a7600288d"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004281"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9d879e22c6775e780794"
+  },
+  "subjectName": "Introduction to Scientific Data Analysis",
+  "subjectCode": "STAT1004",
+  "sessionType": "Workshop",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Shanika Perera",
+    "email": "sp@gmail.com",
+    "_id": {
+      "$oid": "661f64d078d4a58a7600288d"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427b"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004281"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9e4d9e22c6775e780940"
+  },
+  "subjectName": "Machine Learning",
+  "subjectCode": "COMP3010",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Darshana Kasthurirathne",
+    "email": "dk@gmail.com",
+    "_id": {
+      "$oid": "661f6bf878d4a58a760028f4"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661f9e4d9e22c6775e78094b"
+  },
+  "subjectName": "Machine Learning",
+  "subjectCode": "COMP3010",
+  "sessionType": "Tute",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Jeewaka Perera",
+    "email": "jp@gmail.com",
+    "_id": {
+      "$oid": "661f699578d4a58a760028d3"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 2,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353b"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fa3289e22c6775e780b1e"
+  },
+  "subjectName": "Internet of Things Design and Communications",
+  "subjectCode": "COMT3002",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Uditha Darmakeerthi",
+    "email": "ud@gmail.com",
+    "_id": {
+      "$oid": "661f6ccd78d4a58a760028f9"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004281"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fa3289e22c6775e780b2a"
+  },
+  "subjectName": "Internet of Things Design and Communications",
+  "subjectCode": "COMT3002",
+  "sessionType": "Lab",
+  "studentCount": 50,
+  "duration": 3,
+  "lecturer": {
+    "lecturerName": "Praveen Gamage",
+    "email": "pg@gmail.com",
+    "_id": {
+      "$oid": "661f691478d4a58a760028ce"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7dd778d4a58a7600302c"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7e0778d4a58a7600427e"
+      }
+    },
+    {
+      "specName": "Computer Systems and Networking",
+      "year": 3,
+      "semester": 2,
+      "_id": {
+        "$oid": "661f7e0778d4a58a76004281"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fa3ca9e22c6775e780cfd"
+  },
+  "subjectName": "Capstone Computing Project 1",
+  "subjectCode": "ISAD3000",
+  "sessionType": "Lecture",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Geethanjali Wimalaratne",
+    "email": "gw@gmail.com",
+    "_id": {
+      "$oid": "661f6cf678d4a58a760028fe"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661fa3ca9e22c6775e780d06"
+  },
+  "subjectName": "Capstone Computing Project 1",
+  "subjectCode": "ISAD3000",
+  "sessionType": "Workshop",
+  "studentCount": 50,
+  "duration": 2,
+  "lecturer": {
+    "lecturerName": "Ann Fernando",
+    "email": "af@gmail.com",
+    "_id": {
+      "$oid": "661f66c478d4a58a760028b0"
+    }
+  },
+  "specBatches": [
+    {
+      "specName": "Software Engineering",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dca78d4a58a76002d0a"
+      }
+    },
+    {
+      "specName": "Information Technology",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7dd778d4a58a76003029"
+      }
+    },
+    {
+      "specName": "Cyber Security",
+      "year": 3,
+      "semester": 1,
+      "_id": {
+        "$oid": "661f7de678d4a58a7600353e"
+      }
+    }
+  ],
+  "__v": 0
+}]

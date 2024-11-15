@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "663b94076e637ba879690075"
+  },
+  "hallid": "LT-104",
+  "capacity": 30,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b94136e637ba879690077"
+  },
+  "hallid": "LT-105",
+  "capacity": 55,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b94216e637ba879690079"
+  },
+  "hallid": "LT-106",
+  "capacity": 70,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b942c6e637ba87969007b"
+  },
+  "hallid": "LT-204",
+  "capacity": 100,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663b94386e637ba87969007d"
+  },
+  "hallid": "LT-206",
+  "capacity": 90,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428e9190239c127288ad06"
+  },
+  "hallid": "LT-104",
+  "capacity": 40,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428e9d90239c127288ad08"
+  },
+  "hallid": "LT-105",
+  "capacity": 60,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428ea990239c127288ad0a"
+  },
+  "hallid": "LT-106",
+  "capacity": 70,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428eb990239c127288ad0c"
+  },
+  "hallid": "LT-201",
+  "capacity": 50,
+  "available": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66428eca90239c127288ad0e"
+  },
+  "hallid": "LT-204",
+  "capacity": 70,
+  "available": true,
+  "__v": 0
+}]

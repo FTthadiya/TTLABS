@@ -1,0 +1,4532 @@
+[{
+  "_id": {
+    "$oid": "664277b790239c12728337bd"
+  },
+  "subject": {
+    "subjectName": "Mathematics for Computing",
+    "subjectCode": "CSIT1030",
+    "sessionType": "Workshop",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Shanika Perera",
+      "email": "sp@gmail.com",
+      "_id": {
+        "$oid": "661f64d078d4a58a7600288d"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002cfe"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600301d"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a76003532"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f7ff178d4a58a76005608"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664277b790239c12728337c4"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664277b790239c12728337c7"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664277b790239c12728337ca"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664277b790239c12728337cd"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "664277b790239c12728337d0"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664277ee90239c1272833806"
+  },
+  "subject": {
+    "subjectName": "Linear Algebra and Statistics",
+    "subjectCode": "MATH1090",
+    "sessionType": "Workshop",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Shanika Perera",
+      "email": "sp@gmail.com",
+      "_id": {
+        "$oid": "661f64d078d4a58a7600288d"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f83d69e22c6775e77eab9"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664277ee90239c127283380a"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664277ee90239c127283380d"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664277ee90239c1272833810"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664277ee90239c1272833813"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664277ee90239c1272833816"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642780690239c127283382c"
+  },
+  "subject": {
+    "subjectName": "Introduction to Scientific Data Analysis",
+    "subjectCode": "STAT1004",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Shanika Perera",
+      "email": "sp@gmail.com",
+      "_id": {
+        "$oid": "661f64d078d4a58a7600288d"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004281"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9d1b9e22c6775e780602"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "6642780690239c1272833833"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642780690239c1272833836"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "6642780690239c1272833839"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "6642780690239c127283383c"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "6642780690239c127283383f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642782190239c1272833855"
+  },
+  "subject": {
+    "subjectName": "Introduction to Scientific Data Analysis",
+    "subjectCode": "STAT1004",
+    "sessionType": "Workshop",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Shanika Perera",
+      "email": "sp@gmail.com",
+      "_id": {
+        "$oid": "661f64d078d4a58a7600288d"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004281"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9d879e22c6775e780794"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "6642782190239c127283385c"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642782190239c127283385f"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642782190239c1272833862"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642782190239c1272833865"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "6642782190239c1272833868"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642788490239c1272833897"
+  },
+  "subject": {
+    "subjectName": "Fundamentals of Programming",
+    "subjectCode": "COMP1005",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Umanga Pilapitiya",
+      "email": "up@gmail.com",
+      "_id": {
+        "$oid": "661f65f178d4a58a760028a1"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Information Technology",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600301d"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f82ca9e22c6775e77e990"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "6642788490239c127283389c"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "6642788490239c127283389f"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "6642788490239c12728338a2"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "6642788490239c12728338a5"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "6642788490239c12728338a8"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642789c90239c12728338be"
+  },
+  "subject": {
+    "subjectName": "Fundamentals of Programming",
+    "subjectCode": "COMP1005",
+    "sessionType": "Tute",
+    "studentCount": 50,
+    "duration": 1,
+    "lecturer": {
+      "lecturerName": "Umanga Pilapitiya",
+      "email": "up@gmail.com",
+      "_id": {
+        "$oid": "661f65f178d4a58a760028a1"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Information Technology",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600301d"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f83379e22c6775e77ea1e"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642789c90239c12728338c3"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "6642789c90239c12728338c6"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "6642789c90239c12728338c9"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "6642789c90239c12728338cc"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642789c90239c12728338cf"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664278d790239c12728338fe"
+  },
+  "subject": {
+    "subjectName": "Fundamentals of Programming",
+    "subjectCode": "COMP1005",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Madhuni Prasadinie",
+      "email": "mp@gmail.com",
+      "_id": {
+        "$oid": "661f661e78d4a58a760028a6"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Information Technology",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600301d"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f82ca9e22c6775e77e998"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "664278d790239c1272833903"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "664278d790239c1272833906"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664278d790239c1272833909"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664278d790239c127283390c"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664278d790239c127283390f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664278f090239c1272833923"
+  },
+  "subject": {
+    "subjectName": "Software Engineering Testing",
+    "subjectCode": "CMPE3008",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Madhuni Prasadinie",
+      "email": "mp@gmail.com",
+      "_id": {
+        "$oid": "661f661e78d4a58a760028a6"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f8ea09e22c6775e77f366"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664278f090239c1272833928"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "664278f090239c127283392b"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664278f090239c127283392e"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "664278f090239c1272833931"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664278f090239c1272833934"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642794690239c127283395f"
+  },
+  "subject": {
+    "subjectName": "Eng.Foundations: Principles, Design,and communication",
+    "subjectCode": "INDE1001",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "NImal Visahan",
+      "email": "nv@gmail.com",
+      "_id": {
+        "$oid": "661f666c78d4a58a760028ab"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f846c9e22c6775e77eb4e"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "6642794690239c1272833963"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "6642794690239c1272833966"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "6642794690239c1272833969"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "6642794690239c127283396c"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "6642794690239c127283396f"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6642795990239c1272833982"
+  },
+  "subject": {
+    "subjectName": "Eng.Foundations: Principles, Design,and communication",
+    "subjectCode": "INDE1001",
+    "sessionType": "Workshop",
+    "studentCount": 50,
+    "duration": 3,
+    "lecturer": {
+      "lecturerName": "NImal Visahan",
+      "email": "nv@gmail.com",
+      "_id": {
+        "$oid": "661f666c78d4a58a760028ab"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f846c9e22c6775e77eb55"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "6642795990239c1272833986"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642795990239c1272833989"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "6642795990239c127283398c"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "6642795990239c127283398f"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "6642795990239c1272833992"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664279ac90239c12728339d9"
+  },
+  "subject": {
+    "subjectName": "Hardware Fundamentals",
+    "subjectCode": "CMPE1000",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Ann Fernando",
+      "email": "af@gmail.com",
+      "_id": {
+        "$oid": "661f66c478d4a58a760028b0"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0d"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004275"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f84e39e22c6775e77ebe7"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664279ac90239c12728339e0"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664279ac90239c12728339e3"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "664279ac90239c12728339e6"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664279ac90239c12728339e9"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664279ac90239c12728339ec"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664279be90239c1272833a02"
+  },
+  "subject": {
+    "subjectName": "Hardware Fundamentals",
+    "subjectCode": "CMPE1000",
+    "sessionType": "Tute",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Ann Fernando",
+      "email": "af@gmail.com",
+      "_id": {
+        "$oid": "661f66c478d4a58a760028b0"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0d"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004275"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f84e39e22c6775e77ebf1"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664279be90239c1272833a09"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664279be90239c1272833a0c"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "664279be90239c1272833a0f"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664279be90239c1272833a12"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664279be90239c1272833a15"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664279d190239c1272833a29"
+  },
+  "subject": {
+    "subjectName": "Transmission and Interface Design",
+    "subjectCode": "ELEN2002",
+    "sessionType": "Tute",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Ann Fernando",
+      "email": "af@gmail.com",
+      "_id": {
+        "$oid": "661f66c478d4a58a760028b0"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004278"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f99549e22c6775e77fd03"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664279d190239c1272833a2e"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664279d190239c1272833a31"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664279d190239c1272833a34"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "664279d190239c1272833a37"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "664279d190239c1272833a3a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664279eb90239c1272833a4f"
+  },
+  "subject": {
+    "subjectName": "Capstone Computing Project 1",
+    "subjectCode": "ISAD3000",
+    "sessionType": "Workshop",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Ann Fernando",
+      "email": "af@gmail.com",
+      "_id": {
+        "$oid": "661f66c478d4a58a760028b0"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661fa3ca9e22c6775e780d06"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "664279eb90239c1272833a55"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664279eb90239c1272833a58"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "664279eb90239c1272833a5b"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "664279eb90239c1272833a5e"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "664279eb90239c1272833a61"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427a4090239c1272833a8e"
+  },
+  "subject": {
+    "subjectName": "Hardware Fundamentals",
+    "subjectCode": "CMPE1000",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Tharushi Amarasinghe",
+      "email": "ta@gmail.com",
+      "_id": {
+        "$oid": "661f66f678d4a58a760028b5"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0d"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004272"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 1,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004275"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f85479e22c6775e77ec93"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427a4090239c1272833a95"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427a4090239c1272833a98"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427a4090239c1272833a9b"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427a4090239c1272833a9e"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427a4090239c1272833aa1"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427a5390239c1272833ab5"
+  },
+  "subject": {
+    "subjectName": "Transmission and Interface Design",
+    "subjectCode": "ELEN2002",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 3,
+    "lecturer": {
+      "lecturerName": "Tharushi Amarasinghe",
+      "email": "ta@gmail.com",
+      "_id": {
+        "$oid": "661f66f678d4a58a760028b5"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004278"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f99a69e22c6775e77fe51"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427a5390239c1272833aba"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427a5390239c1272833abd"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427a5390239c1272833ac0"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427a5390239c1272833ac3"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427a5390239c1272833ac6"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427ab890239c1272833af9"
+  },
+  "subject": {
+    "subjectName": "Software Engineering Testing",
+    "subjectCode": "CMPE3008",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Jeewaka Perera",
+      "email": "jp@gmail.com",
+      "_id": {
+        "$oid": "661f699578d4a58a760028d3"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f8ea09e22c6775e77f35e"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427ab890239c1272833afe"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427ab890239c1272833b01"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427ab890239c1272833b04"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427ab890239c1272833b07"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427ab890239c1272833b0a"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427ac890239c1272833b21"
+  },
+  "subject": {
+    "subjectName": "Machine Learning",
+    "subjectCode": "COMP3010",
+    "sessionType": "Tute",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Jeewaka Perera",
+      "email": "jp@gmail.com",
+      "_id": {
+        "$oid": "661f699578d4a58a760028d3"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9e4d9e22c6775e78094b"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427ac890239c1272833b29"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427ac890239c1272833b2c"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427ac890239c1272833b2f"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427ac890239c1272833b32"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427ac890239c1272833b35"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427b1490239c1272833b5f"
+  },
+  "subject": {
+    "subjectName": "Object Oriented Software Engineering",
+    "subjectCode": "COMP2003",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Kasun Madushanka",
+      "email": "kasunm@gmail.com",
+      "_id": {
+        "$oid": "661f75c078d4a58a76002acd"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f8f109e22c6775e77f460"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427b1490239c1272833b64"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427b1490239c1272833b67"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427b1490239c1272833b6a"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427b1490239c1272833b6d"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427b1490239c1272833b70"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427b5790239c1272833ba7"
+  },
+  "subject": {
+    "subjectName": "Object Oriented Software Engineering",
+    "subjectCode": "COMP2003",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Praveen Gamage",
+      "email": "pg@gmail.com",
+      "_id": {
+        "$oid": "661f691478d4a58a760028ce"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f8f109e22c6775e77f468"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427b5790239c1272833bac"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427b5790239c1272833baf"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427b5790239c1272833bb2"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427b5790239c1272833bb5"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427b5790239c1272833bb8"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427b6e90239c1272833bd0"
+  },
+  "subject": {
+    "subjectName": "Internet of Things Design and Communications",
+    "subjectCode": "COMT3002",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 3,
+    "lecturer": {
+      "lecturerName": "Praveen Gamage",
+      "email": "pg@gmail.com",
+      "_id": {
+        "$oid": "661f691478d4a58a760028ce"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004281"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661fa3289e22c6775e780b2a"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427b6e90239c1272833bd9"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427b6e90239c1272833bdc"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427b6e90239c1272833bdf"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427b6e90239c1272833be2"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427b6e90239c1272833be5"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427bc690239c1272833c0e"
+  },
+  "subject": {
+    "subjectName": "Capstone Computing Project 1",
+    "subjectCode": "ISAD3000",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Geethanjali Wimalaratne",
+      "email": "gw@gmail.com",
+      "_id": {
+        "$oid": "661f6cf678d4a58a760028fe"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661fa3ca9e22c6775e780cfd"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427bc690239c1272833c14"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427bc690239c1272833c17"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427bc690239c1272833c1a"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427bc690239c1272833c1d"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427bc690239c1272833c20"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427bf990239c1272833c4f"
+  },
+  "subject": {
+    "subjectName": "Internet of Things Design and Communications",
+    "subjectCode": "COMT3002",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Uditha Darmakeerthi",
+      "email": "ud@gmail.com",
+      "_id": {
+        "$oid": "661f6ccd78d4a58a760028f9"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004281"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661fa3289e22c6775e780b1e"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427bf990239c1272833c58"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427bf990239c1272833c5b"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427bf990239c1272833c5e"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427bf990239c1272833c61"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427bf990239c1272833c64"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427c5890239c1272833c90"
+  },
+  "subject": {
+    "subjectName": "Machine Learning",
+    "subjectCode": "COMP3010",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Darshana Kasthurirathne",
+      "email": "dk@gmail.com",
+      "_id": {
+        "$oid": "661f6bf878d4a58a760028f4"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a7600302c"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9e4d9e22c6775e780940"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427c5890239c1272833c98"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427c5890239c1272833c9b"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427c5890239c1272833c9e"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427c5890239c1272833ca1"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427c5890239c1272833ca4"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427c8f90239c1272833ccf"
+  },
+  "subject": {
+    "subjectName": "Fundamental Concepts of Cryptography",
+    "subjectCode": "ISEC2000",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Roshan Chandraguptha",
+      "email": "rc@gmail.com",
+      "_id": {
+        "$oid": "661f6bb678d4a58a760028ef"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9c309e22c6775e7802e1"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427c8f90239c1272833cd6"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427c8f90239c1272833cd9"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427c8f90239c1272833cdc"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427c8f90239c1272833cdf"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427c8f90239c1272833ce2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427cc490239c1272833d0d"
+  },
+  "subject": {
+    "subjectName": "Fundamental Concepts of Cryptography",
+    "subjectCode": "ISEC2000",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Laneesha Ruggahakotuwa",
+      "email": "lr@gmail.com",
+      "_id": {
+        "$oid": "661f641278d4a58a7600287e"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353e"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9c309e22c6775e7802eb"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427cc490239c1272833d14"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427cc490239c1272833d17"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427cc490239c1272833d1a"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427cc490239c1272833d1d"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427cc490239c1272833d20"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427d0590239c1272833d4f"
+  },
+  "subject": {
+    "subjectName": "Human Computer Interface",
+    "subjectCode": "ICTE3002",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Jagath Wickramarathne",
+      "email": "jw@gmail.com",
+      "_id": {
+        "$oid": "661f6acb78d4a58a760028e5"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d0a"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003026"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 3,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003029"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f9a639e22c6775e77ffb9"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427d0590239c1272833d56"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427d0590239c1272833d59"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427d0590239c1272833d5c"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427d0590239c1272833d5f"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 2,
+        "name": "09:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4602"
+        }
+      },
+      "_id": {
+        "$oid": "66427d0590239c1272833d62"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427d7590239c1272833de3"
+  },
+  "subject": {
+    "subjectName": "Operating Systems",
+    "subjectCode": "COMP2006",
+    "sessionType": "Lecture",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Samantha Rajapakshe",
+      "email": "sr@gmail.com",
+      "_id": {
+        "$oid": "661f6a3078d4a58a760028db"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003023"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003026"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a76003538"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004278"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f91409e22c6775e77f7be"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427d7590239c1272833dee"
+      }
+    },
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427d7590239c1272833df1"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427d7590239c1272833df4"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427d7590239c1272833df7"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427d7590239c1272833dfa"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427d8890239c1272833e14"
+  },
+  "subject": {
+    "subjectName": "Operating Systems",
+    "subjectCode": "COMP2006",
+    "sessionType": "Tute",
+    "studentCount": 50,
+    "duration": 1,
+    "lecturer": {
+      "lecturerName": "Samantha Rajapakshe",
+      "email": "sr@gmail.com",
+      "_id": {
+        "$oid": "661f6a3078d4a58a760028db"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003023"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003026"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a76003538"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004278"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f91409e22c6775e77f7cc"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 5,
+        "name": "Friday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45ff"
+        }
+      },
+      "startTime": {
+        "index": 3,
+        "name": "10:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4603"
+        }
+      },
+      "_id": {
+        "$oid": "66427d8890239c1272833e1f"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 4,
+        "name": "11:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4604"
+        }
+      },
+      "_id": {
+        "$oid": "66427d8890239c1272833e22"
+      }
+    },
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427d8890239c1272833e25"
+      }
+    },
+    {
+      "day": {
+        "index": 1,
+        "name": "Monday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fb"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427d8890239c1272833e28"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427d8890239c1272833e2b"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66427dba90239c1272833e60"
+  },
+  "subject": {
+    "subjectName": "Operating Systems",
+    "subjectCode": "COMP2006",
+    "sessionType": "Lab",
+    "studentCount": 50,
+    "duration": 2,
+    "lecturer": {
+      "lecturerName": "Tharindu Dharmasena",
+      "email": "td@gmail.com",
+      "_id": {
+        "$oid": "661f656778d4a58a76002897"
+      }
+    },
+    "specBatches": [
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d04"
+        }
+      },
+      {
+        "specName": "Software Engineering",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dca78d4a58a76002d07"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003023"
+        }
+      },
+      {
+        "specName": "Information Technology",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7dd778d4a58a76003026"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7de678d4a58a76003538"
+        }
+      },
+      {
+        "specName": "Cyber Security",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7de678d4a58a7600353b"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 1,
+        "_id": {
+          "$oid": "661f7e0778d4a58a76004278"
+        }
+      },
+      {
+        "specName": "Computer Systems and Networking",
+        "year": 2,
+        "semester": 2,
+        "_id": {
+          "$oid": "661f7e0778d4a58a7600427b"
+        }
+      }
+    ],
+    "_id": {
+      "$oid": "661f91d09e22c6775e77f90d"
+    }
+  },
+  "daysStartTimes": [
+    {
+      "day": {
+        "index": 2,
+        "name": "Tuesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fc"
+        }
+      },
+      "startTime": {
+        "index": 1,
+        "name": "08:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4601"
+        }
+      },
+      "_id": {
+        "$oid": "66427dba90239c1272833e6b"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427dba90239c1272833e6e"
+      }
+    },
+    {
+      "day": {
+        "index": 3,
+        "name": "Wednesday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fd"
+        }
+      },
+      "startTime": {
+        "index": 8,
+        "name": "15:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4608"
+        }
+      },
+      "_id": {
+        "$oid": "66427dba90239c1272833e71"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 7,
+        "name": "14:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4607"
+        }
+      },
+      "_id": {
+        "$oid": "66427dba90239c1272833e74"
+      }
+    },
+    {
+      "day": {
+        "index": 4,
+        "name": "Thursday",
+        "_id": {
+          "$oid": "6602db26014bdf1e1dea45fe"
+        }
+      },
+      "startTime": {
+        "index": 6,
+        "name": "13:30",
+        "_id": {
+          "$oid": "6602db39014bdf1e1dea4606"
+        }
+      },
+      "_id": {
+        "$oid": "66427dba90239c1272833e77"
+      }
+    }
+  ],
+  "__v": 0
+}]

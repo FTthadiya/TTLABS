@@ -1,0 +1,24 @@
+.form-container {
+  width: calc(75% - 10px);
+  margin: 0 auto;
+  padding: 0;
+  border-radius: 10px;
+  background: #f0edd4;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+}
+
+.form-container > * {
+  padding: 30px;
+}
+
+.show-div {
+  display: block;
+}
+
+.hide-div {
+  display: none;
+}
+
+.form-container hr {
+  color: #353535;
+}

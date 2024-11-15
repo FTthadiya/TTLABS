@@ -1,0 +1,25 @@
+.pagination {
+  list-style: none;
+  padding: 0;
+}
+
+.pagination li a {
+  display: block;
+  padding: 5px 10px;
+  text-decoration: none;
+  color: #333;
+  border: 1px solid #6c757d;
+  background-color: #fff;
+  transition: color 0.2s ease;
+}
+
+.pagination li.active a {
+  background: linear-gradient(to right, #ffffff, #ffe9b1);
+  color: #353535;
+  border: 1px solid #353535;
+  transition: none;
+}
+
+.pagination li:first-child {
+  margin-right: 0;
+}
